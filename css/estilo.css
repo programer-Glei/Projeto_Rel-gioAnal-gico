@@ -41,3 +41,12 @@ h1{
     margin-top: -0.3rem;
     background-color: royalblue;
 }
+
+.risco{
+    width: 14.5rem;
+    height: 0.5rem;
+    transform-origin: left;
+    display: flex;
+    justify-content: flex-end;
+    background-color: salmon;
+}
