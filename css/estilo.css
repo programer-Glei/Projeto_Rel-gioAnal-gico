@@ -39,14 +39,21 @@ h1{
     padding-left: 50%;
     padding-top: 50%;
     margin-top: -0.3rem;
-    background-color: royalblue;
 }
 
 .risco{
     width: 14.5rem;
     height: 0.5rem;
+    position: absolute;
     transform-origin: left;
     display: flex;
     justify-content: flex-end;
     background-color: salmon;
 }
+
+.risco .ponto{
+    width: 1.5rem;
+    height: 100%;
+    background-color: #fff;
+}
+
