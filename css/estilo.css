@@ -65,3 +65,33 @@ h1{
     margin-top: -100%;
     background-color: aqua;
 }
+
+.p_s {
+    width: 10rem;
+    height: 0.3rem;
+    background-color: #F00;
+}
+.p_m {
+    width: 120px;
+    height: 7px;
+    background-color: #FFF;
+}
+.p_h {
+    width: 70px;
+    height: 10px;
+    background-color: #FFF;
+}
+.encaixe {
+    width: 20px;
+    height: 20px;
+    background-color: #FFF;
+    border-radius: 50%;
+    position: absolute;
+    margin-top: -5px;
+    margin-left: -5px;
+}
+.digital {
+    color: #FFF;
+    font-size: 40px;
+    margin-top: 20px;
+}
