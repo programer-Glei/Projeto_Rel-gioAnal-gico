@@ -48,7 +48,6 @@ h1{
     transform-origin: left;
     display: flex;
     justify-content: flex-end;
-    background-color: salmon;
 }
 
 .risco .ponto{
@@ -72,8 +71,8 @@ h1{
     background-color: #F00;
 }
 .p_m {
-    width: 120px;
-    height: 7px;
+    width: 12rem;
+    height: 0.7rem;
     background-color: #FFF;
 }
 .p_h {
