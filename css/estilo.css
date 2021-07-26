@@ -64,9 +64,17 @@ h1{
     margin-top: -100%;
 }
 
+.p {
+    transform-origin: left;
+    transform: rotate(0deg);
+    border-radius: 50%;
+    position: absolute;
+}
+
 .p_s {
     width: 10rem;
     height: 0.3rem;
+    background-color: #f00;
 }
 .p_m {
     width: 12rem;
@@ -84,11 +92,18 @@ h1{
     background-color: #FFF;
     border-radius: 50%;
     position: absolute;
-    margin-top: -5px;
-    margin-left: -5px;
+    margin-top: -0.5rem;
+    margin-left: -0.5rem;
+    border: 1px solid black;
 }
 .digital {
     color: #FFF;
     font-size: 4rem;
     margin-top: 2rem;
+}
+
+footer {
+    margin-top: 20px;
+    color: #FFF;
+    font-size: 13px;
 }
